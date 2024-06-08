@@ -22,4 +22,4 @@ sudo ifconfig bat0 up
 sudo ifconfig bat0 192.168.0.5/24
 
 
-echo "Configuracion realizada exitosamente"
+echo "Configuracion realizada con exito"
